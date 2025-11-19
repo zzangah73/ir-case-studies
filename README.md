@@ -4,7 +4,8 @@ This repository hosts two Propensity Score Matching (PSM) case studies developed
 No real student-level data are included.
 All outputs are illustrative and show the analytic process, code, and structure only.
 
-Rendered HTML files are provided for convenient review, while .qmd files in the docs/ folder contain the full source code.
+The Quarto source files (.qmd) are stored in the repository root, and the rendered HTML files are located in the docs/ folder so they can be published via GitHub Pages.
+
 
 📄 License & Intended Use
 
